@@ -40,3 +40,5 @@ Assembly instructions:
 12) Assembly compelete!
 
 ![cad1.png](/PICS/cad1.png)
+
+![stern-wheeler_load.mp4](/PICS/stern-wheeler_load.mp4)
