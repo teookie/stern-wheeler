@@ -14,6 +14,7 @@ Change log:
 
 BOM
 - 2x 608 Bearings
+- 12x M3 heatset inserts
 - 12x M3x8 or M3x10 cap screws
 - 2x M5x16 button head screws
 - about 700g of filament (for a 6 lane buffer)
