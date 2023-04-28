@@ -41,4 +41,4 @@ Assembly instructions:
 
 ![cad1.png](/PICS/cad1.png)
 
-![stern-wheeler_load.mp4](/PICS/stern-wheeler_load.mp4)
+https://youtube.com/shorts/Z2WNvIMlSTY?feature=share
