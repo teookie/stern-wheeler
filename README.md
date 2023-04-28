@@ -1,8 +1,6 @@
 # stern-wheeler
 filament buffer for multi-material FDM 3D printers
 
-![cad1.png](/PICS/cad1.png)
-
 Change log:
 4/7/2023
 - Oriented stl's for printing
@@ -39,3 +37,5 @@ Assembly instructions:
 10) Once all the pins are in, flip the assembly over and install the wheel mount, clamps, and mounting bracket with M3x8 or M3x10 cap screws. Tightening the fastners should pull the pins through the assembly so that only about 1mm protudes form the other side.
 11) Install the remaining clamps on the cover
 12) Assembly compelete!
+
+![cad1.png](/PICS/cad1.png)
