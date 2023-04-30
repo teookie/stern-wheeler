@@ -20,7 +20,7 @@ BOM
 - about 700g of filament (for a 6 lane buffer)
 
 Printing instructions:
-- Any material should work, but if you mix materials make sure that they have equal amount of shrinkage or your wheel might not fit!
+- Designed to be printed with ABS. If you mix materials make sure that they have equal amount of shrinkage or your wheel might not fit!
 - 2 perimeters, 15% infill for wheel
 - 4 perimeters, 40% infill for everything else
 
@@ -40,3 +40,5 @@ Assembly instructions:
 12) Assembly compelete!
 
 ![cad1.png](/PICS/cad1.png)
+
+https://youtube.com/shorts/Z2WNvIMlSTY?feature=share
