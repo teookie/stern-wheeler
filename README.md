@@ -1,7 +1,13 @@
 # stern-wheeler
-filament buffer for multi-material FDM 3D printers
+Filament buffer for multi-material FDM 3D printers
 
 Change log:
+5/4/2023
+- Removed ridges from wheel and added scallops. Greatly reduces wheel friction.
+- Loosened fit of pins slightly to prevent lane cracking during assembly. 
+- Reduced thru hole diameter for 5mm fasteners on axel. Positions wheel more accuretly during assembly.
+- Rolled back increased clearance between lanes and wheel from 4/7 update. Not needed with new wheel design.
+
 4/7/2023
 - Oriented stl's for printing
 - Lengthened pins and added matching recesses to clamps, mount, and wheel mount. Should help with wheel alignment during assembly.
@@ -40,5 +46,7 @@ Assembly instructions:
 12) Assembly compelete!
 
 ![cad1.png](/PICS/cad1.png)
+
+![spin.gif](/PICS/spin.gif)
 
 https://youtube.com/shorts/Z2WNvIMlSTY?feature=share
