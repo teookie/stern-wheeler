@@ -4,6 +4,7 @@ Filament buffer for multi-material FDM 3D printers
 Change log:
 5/4/2023
 - Removed ridges from wheel and added scallops. Greatly reduces wheel friction.
+- Added a notch to the wheel for the print seam. Make sure your slicer takes advantage! Reduces wheel friction.
 - Loosened fit of pins slightly to prevent lane cracking during assembly. 
 - Reduced thru hole diameter for 5mm fasteners on axel. Positions wheel more accuretly during assembly.
 - Rolled back increased clearance between lanes and wheel from 4/7 update. Not needed with new wheel design.
