@@ -1,7 +1,19 @@
 # stern-wheeler
 Filament buffer for multi-material FDM 3D printers
 
+Special Note:
+I have uploaded the Stern-Wheeler to printables. This github will remain and I will keep it updated. Please consider downloading from printables however, as I do enjoy earning free prusament. :-) The mini and mega sizes will not be available here and will only be available on printables.
+
+Thank you to everyone who gave feedback and helped with development!
+
+https://www.printables.com/model/472316-stern-wheeler
+
 Change log:
+5/6/2023
+- Published these files at printables.com
+- Added mini and mega sizes to printables
+- Removed assembly instructions and replaced with an exploded view (a picture is worth 1000 words)
+
 5/4/2023
 - Removed ridges from wheel and added scallops. Greatly reduces wheel friction.
 - Added a notch to the wheel for the print seam. Make sure your slicer takes advantage! Reduces wheel friction.
@@ -32,21 +44,11 @@ Printing instructions:
 - 4 perimeters, 40% infill for everything else
 
 Assembly instructions:
-1) Install M3 heatset inserts in pins
-2) Fasten the axle to the wheel mount with an M5x16 button head screw
-3) Install 2x 608 skate bearings into the wheel
-4) Place lane #1 on your workbench, hex side up
-5) Place the wheel in it's position in the lane. Be sure to orient wheel with the flat side of the divisions facing up.
-6) Install the next lane by sliding it down over the top of the wheel. You will need to shimmy the lane down around the wheel dividers. Go slow and don't over stress the plastic.
-7) Install remaining lanes the same way
-8) Put the spacer in place on top of the upper 608 bearing
-8) Place the cover on top and loosely secure to the axel with a M5x16 button head screw 
-9) Start driving in the pins. You may need to use gentle taps with a hammer. The fit is tight in order to force all parts (especially the wheel mount and cover) into alignment.
-10) Once all the pins are in, flip the assembly over and install the wheel mount, clamps, and mounting bracket with M3x8 or M3x10 cap screws. Tightening the fastners should pull the pins through the assembly so that only about 1mm protudes from the other side.
-11) Install the remaining clamps on the cover and snug down the M5 screw, but do not over tighten.
-12) Assembly compelete!
+1) See exploded view. ;-)
 
 ![cad1.png](/PICS/cad1.png)
+
+![explode.png](/PICS/explode.png)
 
 ![spin.gif](/PICS/spin.gif)
 
