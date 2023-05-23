@@ -9,6 +9,10 @@ Thank you to everyone who gave feedback and helped with development!
 https://www.printables.com/model/472316-stern-wheeler
 
 Change log:
+5/22/2023
+- Centered bearings in the wheel. The wheel should be (slightly) more stable
+- Added a pic of a loaded 6 lane stern-wheeler to PICs folder
+
 5/10/2023
 - Lengthened axel to interface with a pocket added to the cover, and enlarged the spacer to fit around the axel. This improves wheel alignment during assembly, and makes the wheel installation more robust. See section view added to pics below. (I had a situation where the filament spool got jammed causing the extruder to pull the filament hard enough to misalign the wheel. This change is meant to prevent this.)
 - Remodeled the wheel-mount so that it overlaps the joint between lane #1 and the wheel. This will prevent the thin wall of lane 1 from deflecting and making a gap where filament can escape.
