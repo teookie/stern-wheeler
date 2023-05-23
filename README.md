@@ -12,6 +12,7 @@ Change log:
 5/22/2023
 - Centered bearings in the wheel. The wheel should be (slightly) more stable
 - Added a pic of a loaded 6 lane stern-wheeler to PICs folder
+- Added parts for a 9 lane version to printables. This has not been tested by me. Keep in mind that more lanes means more friction.
 
 5/10/2023
 - Lengthened axel to interface with a pocket added to the cover, and enlarged the spacer to fit around the axel. This improves wheel alignment during assembly, and makes the wheel installation more robust. See section view added to pics below. (I had a situation where the filament spool got jammed causing the extruder to pull the filament hard enough to misalign the wheel. This change is meant to prevent this.)
